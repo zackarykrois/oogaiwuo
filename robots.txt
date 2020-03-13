@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aixahtieg.clblog.me/sitemap.xml
